@@ -9,6 +9,7 @@ Instructions:
 2. Git clone and git checkout 'malicious-branch'
   - This is you acting as a code reviewer
 3. In VSCode: cmd+shift+p "Dev containers: Open folder in container"
+  - Alternatively, open a dev container first, and clone the repo into it. 
 4. `npm i`
 5. Observe that the when this happened it created and pushed a commit on the main branch.
 
