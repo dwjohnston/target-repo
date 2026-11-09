@@ -1,6 +1,6 @@
 This demonstrates how using a Dev Container with VSCode, by default, is still vulnerable to the user's host git credentials being used to inject malicious code into the code base. 
 
-This repo does not do anything genuinely destructive malicious. The malicious behaviour demonstrated is that when the user does an `npm i` it  will create a commit and push it to main branch.  
+This repo does not do anything genuinely destructive or malicious. The malicious behaviour demonstrated is that when the user does an `npm i` it  will create a commit and push it to main branch.  
 
 
 Instructions: 
