@@ -1,15 +1,2 @@
-# target-repo
+This demonstrates how using a Dev Container with VSCode, by default, is still vulnerable to the user's host git credentials being used to inject malicious code into the code base. 
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.3.14. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
