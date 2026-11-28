@@ -1,5 +1,5 @@
 console.log("Hello via Bun!");
 
 
-console.log("foo barsdfsdfsdffsdfdsd")
+console.log("foo aasdaaaaaaa")
 
